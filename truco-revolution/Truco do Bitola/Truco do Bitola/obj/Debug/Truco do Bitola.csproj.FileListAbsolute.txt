@@ -1,0 +1,110 @@
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe.config
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.pdb
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csprojResolveAssemblyReference.cache
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Properties.Resources.resources
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.GenerateResource.Cache
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.exe
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.pdb
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe.config
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.pdb
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csprojAssemblyReference.cache
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Properties.Resources.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.GenerateResource.cache
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CoreCompileInputs.cache
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.exe
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.pdb
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CoreCompileInputs.cache
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe.config
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.exe
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.pdb
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.pdb
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csprojResolveAssemblyReference.cache
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Properties.Resources.resources
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.GenerateResource.Cache
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Inicio.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Inicio.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.JogoVS1.resources
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.JogoVS1.resources
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.JogoVS1.resources
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Inicio.resources
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe.config
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.pdb
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csprojAssemblyReference.cache
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.JogoVS1.resources
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Inicio.resources
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Properties.Resources.resources
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.GenerateResource.cache
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CoreCompileInputs.cache
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.exe
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.pdb
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco6.resources
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco12.resources
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco6.resources
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco12.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco12.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco6.resources
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco12.resources
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco6.resources
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco3.resources
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco9.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe.config
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.exe
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.pdb
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.pdb
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csprojResolveAssemblyReference.cache
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.JogoVS1.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Inicio.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Properties.Resources.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco12.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco3.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco6.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco9.resources
+J:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.GenerateResource.Cache
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco3.resources
+E:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco9.resources
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco3.resources
+D:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco9.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco3.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco9.resources
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\irrKlang.NET4.dll
+F:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CopyComplete
+H:\Técnico\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\irrKlang.NET4.dll
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe.config
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.pdb
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\irrKlang.NET4.dll
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csprojAssemblyReference.cache
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.JogoVS1.resources
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Inicio.resources
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Properties.Resources.resources
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco12.resources
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco3.resources
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco6.resources
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco9.resources
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.GenerateResource.cache
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CoreCompileInputs.cache
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CopyComplete
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.exe
+E:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.pdb
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe.config
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.exe
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\Truco do Bitola.pdb
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\bin\Debug\irrKlang.NET4.dll
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csprojResolveAssemblyReference.cache
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.JogoVS1.resources
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Inicio.resources
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Properties.Resources.resources
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco12.resources
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco3.resources
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco6.resources
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco_do_Bitola.Truco9.resources
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.GenerateResource.cache
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CoreCompileInputs.cache
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.csproj.CopyComplete
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.exe
+D:\Ensino Técnico\Programas\Truco do Bitola - Revolution\Truco do Bitola\Truco do Bitola\obj\Debug\Truco do Bitola.pdb
